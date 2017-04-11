@@ -29,7 +29,7 @@ SECRET_KEY = 'sx%a^8g_f6y_a!t7pa1lthz4msdoro%sx7=x1sz%gcp9vuq2-s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [skinmonkr.pythonanywhere.com,]
 
 
 # Application definition
